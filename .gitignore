@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config (contains SDK path)
+local.properties
+
+# IDE
+/.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing keys — DO NOT commit
+*.keystore
+*.jks
+
+# Logs
+crash.log

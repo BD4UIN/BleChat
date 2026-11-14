@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2563EB</color>
+    <color name="primary_dark">#1D4ED8</color>
+    <color name="accent">#22D3EE</color>
+    <color name="bg">#F1F5F9</color>
+    <color name="card">#FFFFFF</color>
+    <color name="card_self">#DBEAFE</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="signal_good">#16A34A</color>
+    <color name="signal_mid">#F59E0B</color>
+    <color name="signal_bad">#DC2626</color>
+    <color name="header_bg">#2563EB</color>
+    <color name="header_text_primary">#FFFFFF</color>
+    <color name="header_text_secondary">#BFD3FF</color>
+    <color name="header_id_text">#D9E4FF</color>
+    <color name="btn_tint">#3D8BFF</color>
+    <color name="chip_bg">#2DFFFFFF</color>
+    <color name="chip_text_primary">#FFFFFF</color>
+    <color name="chip_text_secondary">#E8EEFF</color>
+    <color name="status_bg">#33FFFFFF</color>
+    <color name="input_stroke">#E2E8F0</color>
+    <color name="name_self">#1D4ED8</color>
+    <color name="name_other">#2563EB</color>
+    <color name="ic_launcher_background">#2563EB</color>
+</resources>

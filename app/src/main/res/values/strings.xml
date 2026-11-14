@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">蓝牙广播聊天</string>
+    <string name="my_id_prefix">本机 ID：</string>
+    <string name="signal_placeholder">正在扫描…</string>
+    <string name="input_hint">输入要广播的消息</string>
+    <string name="send">发送</string>
+    <string name="status_scanning">广播 + 监听中</string>
+    <string name="status_off">未开启</string>
+    <string name="self_tag">我</string>
+</resources>
